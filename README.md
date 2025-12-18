@@ -1,0 +1,1 @@
+Muestra de tablero en excel (Dashboard.xlsm), contiene una macro para carga de archivos, pulsar el botón cargar y cargar el archivo salesweekly.csv, los filtros segmentan datos por trimestre y las tarjetas muestran las métricas correspondientes al día de carga. 
